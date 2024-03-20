@@ -13,7 +13,7 @@ opentelemetry-distro = "^0.35b0"
 
 [tool.poetry.dev-dependencies]
 pylint = "^2.15.6"
-black = "^22.10.0"
+black = "^24.3.0"
 pypi = "^2.1"
 isort = "^5.10.1"
 mypy = "^0.991"
